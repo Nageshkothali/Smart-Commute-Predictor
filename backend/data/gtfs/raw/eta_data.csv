@@ -1,0 +1,7 @@
+distance_km,traffic_level,time_of_day,travel_time_min
+5,1,8,15
+5,2,8,20
+10,1,9,25
+10,3,9,40
+15,2,18,45
+20,3,18,65
